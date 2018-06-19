@@ -1,13 +1,13 @@
 # Misalignment-between-Point-Cloud-and-perspective-image
 In this project, we are going to investigate the misalignment between camera and Point Cloud. Teammate: Lingfei Cui
 
-## How to run the project:
+### How to run the project:
 1. Put front.jpg, back.jpg, left.jpg, right.jpg, final_project_point_cloud.fuse, misalignment.py into the same directory
 2. Input the following commands in Terminal:
 	python misalignment.py
 
 
-## Result:
+### Result:
 1. Point Cloud image:
 front.png, back.png, left.png, right.png
 2. Point Cloud image using intensity information with histogram equalization:
@@ -21,7 +21,7 @@ front_matching_orb.png, back_matching_orb.png, left_matching_orb.png, right_matc
 
 
 
-## References:
+### References:
 [Revised_Coordinate_Transformations.pptx](https:://github.com/younghz/Markdown "Markdown")
 
 https://docs.opencv.org/3.0-beta/modules/features2d/doc/drawing_function_of_keypoints_and_matches.html
